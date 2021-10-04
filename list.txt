@@ -1,6 +1,12 @@
+supplies
 school supplies
 pen
 paper
 glue
 note book
 markers
+
+Groceries
+bread
+butter
+milk
